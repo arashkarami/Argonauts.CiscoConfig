@@ -1,0 +1,5 @@
+netmiko
+ntc_templates
+redis
+requests
+guizero
